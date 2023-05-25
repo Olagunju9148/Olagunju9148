@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning Javascript **Vue, Angular, React,etc**
 
-- 💬 Ask me about **HTML, CSS**
+- 💬 Ask me about **HTML, CSS, Currently Learning JavaScript**
 
 - 📫 How to reach me **olagunjuone@gmail.com**
 
